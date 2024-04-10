@@ -1,0 +1,11 @@
+<div class="container my--16">
+  <div class="row">
+    <% if @users.empty? %>
+      <p>No user found!</p>
+    <% else %>
+        <% @users.each do |user| %>
+            <%= render user %>
+        <% end %>
+    <% end %>
+  </div>
+</div>
