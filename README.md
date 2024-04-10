@@ -101,7 +101,7 @@ you have to those tools in your local machine.
 Clone the project using the following bash command in an appropriate location.
 
 ```bash
-  git clone git@github.com:shahadat3669/blog-app.git
+  git clone git@github.com:dorrod-blip/blog.git
 ```
 
 Go to the project directory.
@@ -159,14 +159,6 @@ For testing you can run:
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- AUTHORS -->
-
-## 👥 Authors <a name="authors"></a>
-
-### First Author:
-
-**Shahadat Hossain**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
